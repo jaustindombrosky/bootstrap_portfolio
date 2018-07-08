@@ -90,10 +90,6 @@ a:hover {
     border-top: 2px solid #4aaaa5;
 }
 
-/***************************************
-		       INDEX.HTML
-****************************************/
-
 #about {
 	margin: 15px 13% 35px 13%;
 	background: #fff;
@@ -124,10 +120,6 @@ a:hover {
 	padding-top: 10px;
 	text-align: justify; 
 }
-
-/***************************************
-		      PORTFOLIO.HTML
-****************************************/
 
 ul {
 	padding: 0px;
@@ -172,10 +164,6 @@ ul {
 	bottom: 53px;
 
 }
-
-/***************************************
-		      CONTACT.HTML
-****************************************/
 
 #contact {
 	margin: 35px 13% 35px 13%;
@@ -257,13 +245,7 @@ ul {
 	background-color: #3a8783;
 }
 
-/***************************************
-		      RESPONSIVE
-****************************************/
-
 @media (min-width: 560px) {
-
-		/*TABLET*/
 
 	#about {
 		margin: 15px 0% 15px 10%;
@@ -314,8 +296,6 @@ ul {
 
 
 }
-
-		/*DESKTOP*/
 
 @media (min-width: 992px) {
 
